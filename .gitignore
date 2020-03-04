@@ -119,3 +119,10 @@ temp/
 .history
 
 # End of https://www.gitignore.io/api/node,visualstudiocode
+
+### YARN ###
+
+.yarn/*
+!.yarn/releases
+!.yarn/plugins
+.pnp.*
